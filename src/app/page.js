@@ -4,9 +4,7 @@ import SimpleHtml from "./components/SimpleHtml"
 export default function Home() {
   return (
     <>
-      hello
-      <SimpleHtml />
-      <HookComp />
+    hello from next-new-repo/page.js
     </>
   )
 }

@@ -1,0 +1,1 @@
+self.__RSC_CSS_MANIFEST={"__entry_css_mods__":{"/home/fa064985/learning/Nextjs/next-new-repo/src/app/page":[]}}
