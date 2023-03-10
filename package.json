@@ -2,6 +2,8 @@
   "name": "next-new-repo",
   "version": "0.1.0",
   "private": true,
+  "main": "dist/server/app/page.js",
+  "module": "dist/server/app/page.js",
   "scripts": {
     "dev": "next dev",
     "build": "next build",
