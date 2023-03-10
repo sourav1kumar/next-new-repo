@@ -4,6 +4,10 @@
   "private": true,
   "main": "dist/server/app/page.js",
   "module": "dist/server/app/page.js",
+  "files": [
+        "dist",
+        "README.md"
+    ],
   "scripts": {
     "dev": "next dev",
     "build": "next build",
